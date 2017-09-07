@@ -1,14 +1,22 @@
 {
   "name": "02-tennis-game",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^20.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasitt1122/TennisGame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prasitt1122/TennisGame/issues"
+  },
+  "homepage": "https://github.com/prasitt1122/TennisGame#readme",
+  "description": ""
 }
